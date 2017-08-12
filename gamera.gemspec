@@ -36,7 +36,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'gamera-symbolmatrix', '~> 1.2', '>= 1.2.1'
   s.add_dependency 'gamera-sequel-fixture', '~> 2.0', '>= 2.0.4'
 
-  s.add_development_dependency 'sinatra', '~> 2.0.0'
+  s.add_development_dependency 'sinatra', '~> 2.0', '>= 2.0.0'
   s.add_development_dependency 'byebug', '~> 9.0', '>= 9.0.6'
   s.add_development_dependency 'rspec', '~> 3.6'
   s.add_development_dependency 'yard', '~> 0.9.9'
